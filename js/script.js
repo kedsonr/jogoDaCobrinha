@@ -204,5 +204,4 @@ buttonPlay.addEventListener("click", () => {
     canvas.style.filter = "none"
 
     snake = [initialPosition]
-    drowFood()
 })
